@@ -1,0 +1,14 @@
+
+ .column1 {
+    float: left;
+    width: 40%;
+   }
+   .column2 {
+    float: left;
+    width: 60%;
+   }
+
+.words{
+    font-weight: bold;
+    
+}
