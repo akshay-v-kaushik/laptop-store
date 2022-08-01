@@ -1,5 +1,5 @@
 # laptop-store
-# By Akshay V Kaushik, Abhaya Simha S P
+
 Website for managing the inventory in and out of a laptop store.
 
 Used HTML, CSS, JavaScrpit,, PHP, Mysql
