@@ -1,4 +1,4 @@
-# laptop-store
+# Laptop Store Management System
 
 Website for managing the inventory in and out of a laptop store.
 
